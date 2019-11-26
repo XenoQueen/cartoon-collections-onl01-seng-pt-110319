@@ -14,6 +14,7 @@ planeteer_calls = ["earth", "fire", "wind", "water", "heart"]
 
 def summon_captain_planet(array)
   elements = []
+  i = 0
   
 end
 
