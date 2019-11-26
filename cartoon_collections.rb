@@ -29,7 +29,7 @@ assorted_words = ["two", "go", "industrious", "bop"]
 
 def long_planeteer_calls(array)
   i = 0
-  if 
+  if array.any?
 end
 
 def find_the_cheese# code an argument here
